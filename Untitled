@@ -1,0 +1,1 @@
+find ~ -name "train_humanoid.py" 2>/dev/null
